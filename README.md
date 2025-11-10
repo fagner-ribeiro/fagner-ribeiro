@@ -1,48 +1,71 @@
+## 👋 Olá, Mundo! Sou o Fagner!
 
-# 👋 Olá, Mundo! Sou o Fagner.
+Sou um profissional de **22 anos**, casado e pai de uma anjinha que está no céu. Tenho como propósito o **aprimoramento contínuo** e o desejo genuíno de **gerar impacto positivo** por onde passo.  
 
-## 💫 Sobre Mim
-Profissional de 22 anos, casado e pai de uma linda filha chamada Inês. Sou apaixonado por tecnologia e comprometido com o aprimoramento contínuo. Atualmente atuo como Supervisor de Operações em uma Fintech.
-
-## 🎓 Formação
-- Graduação em Gestão de Recursos Humanos
-- Pós-graduação em Gestão por Processos e Projetos
-
-## 🚀 Habilidades Técnicas
-- **Linguagens:** HTML, JavaScript, (em aprendizado)
-- **Ferramentas de Design:** Photoshop, Lightroom, Corel
-- **Ferramentas de Desenvolvimento:** Visual Studio Code
-- **Gestão:** Excel avançado, gestão de projetos, análise de processos
-- **Hospedagem:** Experiência com Hostinger
-
-## 🔭 Foco Profissional
-- **Atual:** Quality Assurance (QA) - Em processo de especialização
-- **Futuro:** Desenvolvimento de softwares personalizados para empresas
-
-## 📈 Experiência Profissional
-- Supervisor de Operações em uma Fintech
-- Implementação de novas ferramentas e processos
-- Gestão de operações financeiras
-- Análise de dados e processos
-
-## 🌱 Atualmente Aprendendo
-- HTML e JavaScript
-- Testes de software e QA
-
-## 👯 Procuro Colaborar em
-- Projetos relacionados a QA e testes de software
-- Melhorias de processos
-
-## 📫 Como Me Encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/fagner-rib/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ribeirofagner.adm@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.insiginiadigital.com.br/)
-
-## ⚡ Curiosidades
-- Tenho uma visão analítica apurada que me permite identificar oportunidades de melhoria em processos
-- Combino habilidades técnicas com forte capacidade de gestão
-- Apaixonado por design e usabilidade
+Atualmente atuo como **Analista de Qualidade de Software (QA)**, aplicando **práticas de testes manuais e automatizados**, análise de performance e **melhoria contínua de processos** para garantir produtos com alta eficiência e confiabilidade.
 
 ---
 
-⭐️ De [Fagner](https://github.com/SEU-USUARIO)
+### 🎓 Formação Acadêmica
+- **Graduação:** Gestão de Recursos Humanos  
+- **Pós-graduação:** Gestão por Processos e Projetos  
+- **Em breve:** Análise e Desenvolvimento de Sistemas (ADS)  
+
+---
+
+### ⚙️ Habilidades Técnicas
+- **Linguagens e Ferramentas de QA:** Cypress, JavaScript, Postman, JIRA  
+- **Automação e Testes:** Testes funcionais, de regressão e de interface  
+- **Gestão e Processos:** Excel avançado, mapeamento de processos, gestão ágil  
+- **Design e UX:** Photoshop, Lightroom, CorelDRAW (voltado para prototipagem visual)  
+- **Ambientes de Desenvolvimento:** Visual Studio Code, Git/GitHub  
+- **Infraestrutura e Hospedagem:** Experiência com Hostinger, Render e deploy de aplicações web  
+
+---
+
+### 🚀 Foco Profissional
+- **Atual:** Quality Assurance (QA) — Especialização em automação e testes de software  
+- **Futuro:** Desenvolvimento de soluções personalizadas e moldadas à necessidade do negócio  
+
+---
+
+### 💼 Experiência
+- **Analista de QA | Fintech**  
+  - Planejamento e execução de testes manuais e automatizados  
+  - Criação de cenários e casos de teste  
+  - Apoio na implantação de ferramentas e otimização de fluxos de operação  
+  - Monitoramento de métricas e melhoria contínua de qualidade  
+
+- **Supervisor de Operações | Fintech**  
+  - Implementação de novas ferramentas de gestão  
+  - Análise e otimização de processos financeiros  
+  - Gestão de equipe e resultados  
+
+---
+
+### 🌱 Atualmente Aprendendo
+- Automação de testes com **Cypress**  
+- **JavaScript** e lógica aplicada a QA  
+- **Testes de API** e **CI/CD pipelines**
+
+---
+
+### 👯 Procuro Colaborar em
+- Projetos relacionados a **testes de software, QA e automação**  
+- **Desenvolvimento de ferramentas internas** e melhoria de processos  
+
+---
+
+### 📫 Como Me Encontrar
+🔗 [LinkedIn](https://linkedin.com/in/fagnerribeiro) | ✉️ fagner.ribeiro@email.com | 🌐 [Portfolio / Website (opcional)]
+
+---
+
+### ⚡ Curiosidades
+- Tenho perfil analítico e facilidade em identificar **oportunidades de melhoria**.  
+- Gosto de unir **tecnologia, design e gestão** para criar soluções funcionais e intuitivas.  
+- Busco sempre alinhar **qualidade, empatia e propósito** em cada entrega.
+
+---
+
+⭐️ *Com propósito e qualidade — Fagner Ribeiro*
