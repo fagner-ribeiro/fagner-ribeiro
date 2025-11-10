@@ -9,7 +9,7 @@ Atualmente atuo como **Analista de Qualidade de Software (QA)**, aplicando **pr�
 ### 🎓 Formação Acadêmica
 - **Graduação:** Gestão de Recursos Humanos  
 - **Pós-graduação:** Gestão por Processos e Projetos  
-- **Em breve:** Análise e Desenvolvimento de Sistemas (ADS)  
+- **Em andamento:** Análise e Desenvolvimento de Sistemas (1º Período)  
 
 ---
 
@@ -57,7 +57,8 @@ Atualmente atuo como **Analista de Qualidade de Software (QA)**, aplicando **pr�
 ---
 
 ### 📫 Como Me Encontrar
-🔗 [LinkedIn](https://linkedin.com/in/fagnerribeiro) | ✉️ fagner.ribeiro@email.com | 🌐 [Portfolio / Website (opcional)]
+🔗 [LinkedIn](https://www.linkedin.com/in/fagner-rib/)  
+✉️ [ribeirofagner.adm@gmail.com](mailto:ribeirofagner.adm@gmail.com)
 
 ---
 
