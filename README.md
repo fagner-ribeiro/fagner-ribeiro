@@ -1,72 +1,113 @@
-## 👋 Olá, Mundo! Sou o Fagner!
+## 👋 Olá, Mundo! Eu sou o Fagner Ribeiro
 
-Sou um profissional de **22 anos**, casado e pai de uma anjinha que está no céu. Tenho como propósito o **aprimoramento contínuo** e o desejo genuíno de **gerar impacto positivo** por onde passo.  
+Sou um profissional de **22 anos**, casado e pai de uma anjinha que hoje está no céu.  
+Essa experiência reforçou ainda mais meu propósito de buscar **evolução contínua** e gerar **impacto positivo através da tecnologia**.
 
-Atualmente atuo como **Analista de Qualidade de Software (QA)**, aplicando **práticas de testes manuais e automatizados**, análise de performance e **melhoria contínua de processos** para garantir produtos com alta eficiência e confiabilidade.
+Hoje atuo na interseção entre **engenharia de software, automação e qualidade**, desenvolvendo **sistemas, integrações e soluções escaláveis** que resolvem problemas reais de negócio.
 
----
-
-### 🎓 Formação Acadêmica
-- **Graduação:** Gestão de Recursos Humanos  
-- **Pós-graduação:** Gestão por Processos e Projetos  
-- **Em andamento:** Análise e Desenvolvimento de Sistemas (1º Período)  
+Tenho uma forte base em **gestão, processos e regras de negócio**, o que me permite construir soluções tecnológicas com visão estratégica e foco em eficiência.
 
 ---
 
-### ⚙️ Habilidades Técnicas
-- **Linguagens e Ferramentas de QA:** Cypress, JavaScript, Postman, JIRA  
-- **Automação e Testes:** Testes funcionais, de regressão e de interface  
-- **Gestão e Processos:** Excel avançado, mapeamento de processos, gestão ágil  
-- **Design e UX:** Photoshop, Lightroom, CorelDRAW (voltado para prototipagem visual)  
-- **Ambientes de Desenvolvimento:** Visual Studio Code, Git/GitHub  
-- **Infraestrutura e Hospedagem:** Experiência com Hostinger, Render e deploy de aplicações web  
+# 🚀 O que eu faço
+
+💻 Desenvolvimento de **sites, landing pages e sistemas web personalizados**  
+🔗 Integração e consumo de **APIs**  
+⚙️ **Automação de processos e workflows com n8n**  
+🧪 **Quality Assurance e Test Automation**  
+📊 Estruturação de **processos tecnológicos escaláveis**  
+🧠 Modelagem de **lógica de negócio e automação operacional**
+
+Já participei da construção de **mais de 5 projetos totalmente personalizados**, atuando tanto no **front-end quanto na lógica e estrutura dos sistemas**.
+
+Meu foco é sempre entregar **soluções robustas, eficientes e de alto padrão**.
 
 ---
 
-### 🚀 Foco Profissional
-- **Atual:** Quality Assurance (QA) — Especialização em automação e testes de software  
-- **Futuro:** Desenvolvimento de soluções personalizadas e moldadas à necessidade do negócio  
+# 🧠 Diferenciais
+
+Minha experiência anterior em **gestão empresarial e operações financeiras** me deu uma visão muito forte de:
+
+- Regras de negócio
+- Estruturação de processos
+- Eficiência operacional
+- Escalabilidade de sistemas
+
+Isso me permite desenvolver tecnologia **alinhada com o funcionamento real das empresas**.
 
 ---
 
-### 💼 Experiência
-- **Analista de QA | Fintech**  
-  - Planejamento e execução de testes manuais e automatizados  
-  - Criação de cenários e casos de teste  
-  - Apoio na implantação de ferramentas e otimização de fluxos de operação  
-  - Monitoramento de métricas e melhoria contínua de qualidade  
+# 🎓 Formação Acadêmica
 
-- **Supervisor de Operações | Fintech**  
-  - Implementação de novas ferramentas de gestão  
-  - Análise e otimização de processos financeiros  
-  - Gestão de equipe e resultados  
+- 🎓 **Graduação:** Gestão de Recursos Humanos  
+- 📊 **Pós-graduação:** Gestão por Processos e Projetos  
+- 💻 **Cursando:** Análise e Desenvolvimento de Sistemas  
 
 ---
 
-### 🌱 Atualmente Aprendendo
-- Automação de testes com **Cypress**  
-- **JavaScript** e lógica aplicada a QA  
-- **Testes de API** e **CI/CD pipelines**
+# ⚙️ Stack & Tecnologias
+
+### 🧑‍💻 Desenvolvimento
+- JavaScript
+- APIs REST
+- Node.js (integrações e lógica)
+- HTML / CSS
+
+### 🧪 Quality Assurance
+- Cypress
+- Testes automatizados
+- Testes de API
+- Testes funcionais e regressão
+
+### 🔗 Integrações & Automação
+- n8n
+- Postman
+- Webhooks
+- Automação de processos
+
+### 🛠 Ferramentas
+- Git / GitHub
+- Visual Studio Code
+- JIRA
+- Excel avançado
+
+### ☁️ Deploy & Infra
+- Hostinger
+- Render
+- Deploy de aplicações web
 
 ---
 
-### 👯 Procuro Colaborar em
-- Projetos relacionados a **testes de software, QA e automação**  
-- **Desenvolvimento de ferramentas internas** e melhoria de processos  
+# 🌱 Atualmente Aprendendo
+
+- Arquitetura de sistemas escaláveis
+- Automação avançada de workflows
+- Integração entre serviços e APIs
+- CI/CD aplicado a testes e automação
 
 ---
 
-### 📫 Como Me Encontrar
-🔗 [LinkedIn](https://www.linkedin.com/in/fagner-rib/)  
-✉️ [ribeirofagner.adm@gmail.com](mailto:ribeirofagner.adm@gmail.com)
+# 🤝 Aberto para colaborar em
+
+- Sistemas web
+- Automação de processos
+- Integrações de API
+- Projetos open source
+- Ferramentas internas e soluções de produtividade
 
 ---
 
-### ⚡ Curiosidades
-- Tenho perfil analítico e facilidade em identificar **oportunidades de melhoria**.  
-- Gosto de unir **tecnologia, design e gestão** para criar soluções funcionais e intuitivas.  
-- Busco sempre alinhar **qualidade, empatia e propósito** em cada entrega.
+# 📫 Onde me encontrar
+
+🌐 **Site**  
+https://insigniadigital.com.br
+
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/fagner-rib/
+
+✉️ **Email**  
+fagner@insigniadigital.com.br
 
 ---
 
-⭐️ *Com propósito e qualidade — Fagner Ribeiro*
+⭐ *Construindo sistemas, automações e soluções com propósito.*
