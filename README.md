@@ -26,7 +26,7 @@
 
 Sou **Fagner Ribeiro**, profissional de tecnologia com atuação em **engenharia de software, automações, APIs e qualidade de software**.
 
-Tenho **22 anos**, sou casado e pai de uma anjinha que hoje está no céu. Essa vivência fortaleceu ainda mais meu propósito de evoluir continuamente e gerar **impacto positivo** por onde passo.
+Tenho **23 anos**, sou casado e pai de uma anjinha que hoje está no céu. Essa vivência fortaleceu ainda mais meu propósito de evoluir continuamente e gerar **impacto positivo** por onde passo.
 
 Minha trajetória une **tecnologia, gestão e lógica de negócio**. Antes de atuar diretamente com desenvolvimento e QA, construí uma base sólida em **operações, processos, finanças e gestão empresarial**, o que hoje me permite criar soluções muito mais alinhadas com a realidade do negócio.
 
